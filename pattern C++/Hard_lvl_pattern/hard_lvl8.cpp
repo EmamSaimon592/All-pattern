@@ -19,6 +19,7 @@ int main() {
     return 0;
 }
 
+//output will be :
   //     A
   //    B B
   //   C C C
