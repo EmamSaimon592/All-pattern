@@ -11,6 +11,7 @@ for( i = 'A' ; i <= 'E'; i++){
 return 0;
 }
 
+//the output will be:
 // A
 // BB
 // CCC
